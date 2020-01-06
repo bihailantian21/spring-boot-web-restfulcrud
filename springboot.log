@@ -1,0 +1,12 @@
+2019-11-02 12:36:06.872  INFO 18296 --- [main] SpringBootWebRestfulcrudApplicationTests : Starting SpringBootWebRestfulcrudApplicationTests on zhangcongrongdeMacBook-Pro.local with PID 18296 (started by zhangcongrong in /Users/zhangcongrong/IdeaProjects/spring-boot-web-restfulcrud)
+2019-11-02 12:36:06.873 DEBUG 18296 --- [main] SpringBootWebRestfulcrudApplicationTests : Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-11-02 12:36:06.874  INFO 18296 --- [main] SpringBootWebRestfulcrudApplicationTests : No active profile set, falling back to default profiles: default
+2019-11-02 12:36:07.861  INFO 18296 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-02 12:36:07.940  INFO 18296 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2019-11-02 12:36:08.116  INFO 18296 --- [main] SpringBootWebRestfulcrudApplicationTests : Started SpringBootWebRestfulcrudApplicationTests in 1.705 seconds (JVM running for 2.484)
+2019-11-02 12:36:08.254 TRACE 18296 --- [main] SpringBootWebRestfulcrudApplicationTests : trace..
+2019-11-02 12:36:08.254 DEBUG 18296 --- [main] SpringBootWebRestfulcrudApplicationTests : debug。。
+2019-11-02 12:36:08.254  INFO 18296 --- [main] SpringBootWebRestfulcrudApplicationTests : info。。
+2019-11-02 12:36:08.254  WARN 18296 --- [main] SpringBootWebRestfulcrudApplicationTests : warn。。
+2019-11-02 12:36:08.254 ERROR 18296 --- [main] SpringBootWebRestfulcrudApplicationTests : error。。
+2019-11-02 12:36:08.268  INFO 18296 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
